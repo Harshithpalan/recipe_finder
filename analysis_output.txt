@@ -1,0 +1,17 @@
+﻿Analyzing recipe_finder...                                      
+
+  error - The method 'CachedNetworkImage' isn't defined for the type '_RecipeLandingPageState' - lib\landing_page.dart:64:19 - undefined_method
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\landing_page.dart:75:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\landing_page.dart:119:47 - deprecated_member_use
+   info - 'background' is deprecated and shouldn't be used. Use surface instead. This feature was deprecated after v3.18.0-0.1.pre - lib\main.dart:47:11 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\recipe_detail_screen.dart:108:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\recipe_detail_screen.dart:246:22 - deprecated_member_use
+   info - Unnecessary use of multiple underscores - lib\widgets\recipe_card.dart:36:30 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\widgets\recipe_card.dart:36:34 - unnecessary_underscores
+   info - Unnecessary use of multiple underscores - lib\widgets\recipe_card.dart:37:40 - unnecessary_underscores
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\recipe_card.dart:47:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\recipe_card.dart:73:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\widgets\recipe_card.dart:94:47 - deprecated_member_use
+warning - Unused import: 'package:flutter/material.dart' - test\widget_test.dart:8:8 - unused_import
+warning - Unused import: 'package:recipe_finder/main.dart' - test\widget_test.dart:11:8 - unused_import
+
